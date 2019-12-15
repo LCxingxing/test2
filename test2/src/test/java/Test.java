@@ -22,4 +22,7 @@ public class Test {
         }
         System.out.println(stringList);
     }
+    public void test(){
+        System.out.println("test method");
+    }
 }
